@@ -1,4 +1,5 @@
 
+[![Build status](https://ci.appveyor.com/api/projects/status/nxlv1ic54aexdjre?svg=true)](https://ci.appveyor.com/project/STALKSA/allure)
 
 ## Необходимо автоматизировать тестирование новой функции формы заказа доставки карты:
 
